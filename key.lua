@@ -1,5 +1,3 @@
-local tablekey = {
-      "sussybaka",
-      "Mazaeto",
-      "Shadow-god"
-      }
+tablekey = {
+"Mazaeto" }
+return tablekey
