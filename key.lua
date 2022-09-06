@@ -1,3 +1,6 @@
-key1 = {
-"honglam"}
-return key1
+    local tablekey = {
+      "sussybaka",
+      "Mazaeto",
+      "Shadow-god"
+      }
+return tablekey
