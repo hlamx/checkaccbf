@@ -1,6 +1,1 @@
-    local tablekey = {
-      "sussybaka",
-      "Mazaeto",
-      "Shadow-god"
-      }
-return tablekey
+2vjd9yb485nyMd2
