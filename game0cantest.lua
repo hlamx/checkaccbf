@@ -124,7 +124,7 @@ local beli = toSuffixString(game:GetService("Players").LocalPlayer.Data.Beli.Val
 local level = game:GetService("Players").LocalPlayer.Data.Level.Value
 local race = plr.Data.Race.Value
 function sendmsg2(url, j)
-checkwpmelee()
+    checkwpmelee()
     msg = {
         ["content"] = "Profile check",
         ["embeds"] = {
@@ -157,8 +157,7 @@ checkwpmelee()
             }
         }
     }  
-   local request = syn.request or http_request
-    local response = request(
+    local response = syn.request(
     {
     Url = url,
     Method = "POST",
@@ -168,6 +167,7 @@ checkwpmelee()
     Body = game:GetService("HttpService"):JSONEncode(msg)
     }
     )
+end
 if checkacc then
     sendmsg2(url,"Check Profile")
 end    
