@@ -3,3 +3,4 @@ nino
 tuan
 kphong
 baor
+loc
