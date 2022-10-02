@@ -1,4 +1,4 @@
-acc = {"cogaitoithuong1"
+hwid = { "cogaitoithuong1"
 "choigameaimahack37"
 "choigameaimahack32"
 "choigameaimahack29"
@@ -10,5 +10,8 @@ acc = {"cogaitoithuong1"
 "cogaitoithuong4"
 "cogaitoithuong3"
 "cogaitoithuong2"
-}
-return acc
+
+        
+        
+        }
+return hwid
