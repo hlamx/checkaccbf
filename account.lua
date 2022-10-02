@@ -1,4 +1,4 @@
-local acc = {"cogaitoithuong1"
+acc = {"cogaitoithuong1"
 "choigameaimahack37"
 "choigameaimahack32"
 "choigameaimahack29"
