@@ -4,7 +4,7 @@
  
  
         _G.account_id = none;
-        _G.wl_script_id = none;
+        _G.wl_script_id = 11266;
         _G.authToken = 'd61f231a5abedf710ce896ca066de3ff09a2521b';
     -- This file is protected with PSU.IB2.V3.6
  
